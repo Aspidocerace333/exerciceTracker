@@ -15,7 +15,7 @@ export default class Navbar extends Component {
               <a href="/create-exercise" className="nav-link">Create Exercise Log</a>
             </li>
             <li className="navbar-item">
-              <a href="/create-user" className="nav-link">Create Use</a>
+              <a href="/create-user" className="nav-link">Create User</a>
             </li>
 
           </ul>
